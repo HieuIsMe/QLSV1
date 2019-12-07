@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="qlsv">
+    <Key>
+      <PropertyRef Name="MaSV" />
+    </Key>
+    <Property Name="MaSV" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TenSV" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="Khoa" Type="nvarchar" MaxLength="50" />
+    <Property Name="GioiTinh" Type="nvarchar" MaxLength="50" />
+    <Property Name="Diem1" Type="float" />
+    <Property Name="Diem2" Type="float" />
+    <Property Name="Diem3" Type="float" />
+    <Property Name="Diem4" Type="float" />
+  </EntityType>
+  <EntityContainer Name="QLSVModelStoreContainer">
+    <EntitySet Name="qlsv" EntityType="Self.qlsv" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

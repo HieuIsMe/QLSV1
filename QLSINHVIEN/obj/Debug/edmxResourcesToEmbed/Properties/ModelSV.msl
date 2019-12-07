@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLSVModelStoreContainer" CdmEntityContainer="QLSVEntities">
+    <EntitySetMapping Name="qlsvs">
+      <EntityTypeMapping TypeName="QLSVModel.qlsv">
+        <MappingFragment StoreEntitySet="qlsv">
+          <ScalarProperty Name="Diem4" ColumnName="Diem4" />
+          <ScalarProperty Name="Diem3" ColumnName="Diem3" />
+          <ScalarProperty Name="Diem2" ColumnName="Diem2" />
+          <ScalarProperty Name="Diem1" ColumnName="Diem1" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="Khoa" ColumnName="Khoa" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="TenSV" ColumnName="TenSV" />
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

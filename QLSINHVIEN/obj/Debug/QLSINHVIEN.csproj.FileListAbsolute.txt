@@ -1,0 +1,28 @@
+E:\C#\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.exe.config
+E:\C#\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.exe
+E:\C#\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.pdb
+E:\C#\QLSINHVIEN\QLSINHVIEN\bin\Debug\EntityFramework.dll
+E:\C#\QLSINHVIEN\QLSINHVIEN\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\QLSINHVIEN\QLSINHVIEN\bin\Debug\EntityFramework.xml
+E:\C#\QLSINHVIEN\QLSINHVIEN\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csprojAssemblyReference.cache
+E:\C#\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Form1.resources
+E:\C#\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Properties.Resources.resources
+E:\C#\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csproj.GenerateResource.cache
+E:\C#\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csproj.CopyComplete
+E:\C#\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.exe
+E:\C#\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.pdb
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\bin\Debug\QLSINHVIEN.exe.config
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\bin\Debug\QLSINHVIEN.exe
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\bin\Debug\QLSINHVIEN.pdb
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\bin\Debug\EntityFramework.dll
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\bin\Debug\EntityFramework.xml
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\obj\Debug\QLSINHVIEN.csprojAssemblyReference.cache
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\obj\Debug\QLSINHVIEN.Form1.resources
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\obj\Debug\QLSINHVIEN.Properties.Resources.resources
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\obj\Debug\QLSINHVIEN.csproj.GenerateResource.cache
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\obj\Debug\QLSINHVIEN.csproj.CopyComplete
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\obj\Debug\QLSINHVIEN.exe
+E:\Downloads\QUAN_LY_SINHVIEN_C--master (1)\QUAN_LY_SINHVIEN_C--master\QLSINHVIEN\obj\Debug\QLSINHVIEN.pdb
